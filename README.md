@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Event Registration System is a web application designed to streamline the registration process for events organized by the University of Antique. This system was developed as part of a collaborative project with student interns from the university's computer engineering department.
+The Event Registration System is a web application designed to streamline the registration process for events organized by the University of Antique Computer Engineering interns with the collaboration of MGSO of the Local Government of San Jose de Buenavista.
 
 The system allows event organizers to create new events, manage event details, and track participant registrations. On the other hand, participants can easily register for upcoming events, view event information, and receive confirmation emails.
 
@@ -17,7 +17,7 @@ The system allows event organizers to create new events, manage event details, a
 ## Technologies Used
 
 - Python with Django framework for backend development.
-- HTML, CSS, and JavaScript for frontend design.
+- HTML, CSS, and JavaScript for front-end design.
 - MySQL database for data storage.
 - Bootstrap framework for responsive web design.
 
